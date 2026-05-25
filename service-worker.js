@@ -3,7 +3,7 @@
  * PWA 增强版：版本管理 / 增量更新 / 推送通知 / 离线优先
  */
 
-const CACHE_VERSION = 'v20260520c';       // 每次发布更新此版本号
+const CACHE_VERSION = 'v20260525a';       // 每次发布更新此版本号
 const CACHE_NAME    = `phonebook-${CACHE_VERSION}`;
 const DATA_CACHE    = `phonebook-data-${CACHE_VERSION}`;
 
