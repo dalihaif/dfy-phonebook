@@ -114,15 +114,15 @@ open http://localhost:8080
 
 ```json
 {
-  "name": "丁跃明",
+  "name": "李海峰",
   "category": "行政后勤",
-  "dept": "院部",
-  "title": "教授",
-  "rank": "正高",
-  "position": "院长",
+  "dept": "综合档案室",
+  "title": "馆员",
+  "rank": "中职",
+  "position": "科员",
   "phone": "0872-2201062",
-  "mobile": "13577287517",
-  "shortphone": "70486"
+  "mobile": "13988531240",
+  "shortphone": "68560"
 }
 ```
 
@@ -160,4 +160,4 @@ open http://localhost:8080
 ## 📮 联系方式
 
 - 项目地址：https://github.com/dalihaif/dfy-phonebook
-- 问题反馈：通过 GitHub Issues 提交
+- 问题反馈：通过 GitHub Issues 提交 📱：13988531240 📧：dalihaif@qq.com
