@@ -116,13 +116,13 @@ open http://localhost:8080
 {
   "name": "李海峰",
   "category": "行政后勤",
-  "dept": "综合档案室",
+  "dept": "院部",
   "title": "馆员",
   "rank": "中职",
-  "position": "科员",
+  "position": "档案馆员",
   "phone": "0872-2201062",
   "mobile": "13988531240",
-  "shortphone": "68560"
+  "shortphone": 68560"
 }
 ```
 
@@ -160,4 +160,4 @@ open http://localhost:8080
 ## 📮 联系方式
 
 - 项目地址：https://github.com/dalihaif/dfy-phonebook
-- 问题反馈：通过 GitHub Issues 提交 📱：13988531240 📧：dalihaif@qq.com
+- 问题反馈：通过 GitHub Issues 提交
